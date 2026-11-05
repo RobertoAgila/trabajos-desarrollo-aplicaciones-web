@@ -1,7 +1,9 @@
 # Actividad 3: Calculadora Científica Web
 
 **Asignatura:** Desarrollo de Aplicaciones Web  
+
 **Estudiantes:** Roberto Carlos Agila Agila, Genny Isabel Garcia Ramirez, Cindy Yimabel Monserrate Ibarra.
+
 **Tecnologías:** HTML5, CSS3 y JavaScript (sin dependencias externas)
 
 ## Objetivo
